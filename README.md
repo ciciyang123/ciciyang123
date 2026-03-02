@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ciciyang123
 - 👀 I’m interested in exploring trading ideas from low to high frequency
-- 🌱 I’m currently studying Financial Math at UChicago
+- 🌱 I'm currently working as a quant
 - 📫 Please reach out through yangmengjing559@gmail.com
 
 <!---
